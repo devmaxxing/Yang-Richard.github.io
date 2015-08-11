@@ -483,11 +483,10 @@ a.app_link{
 	margin-bottom: 50px;
 }
 
-.app_features .ficon{
-	width: 60px;
-	height: 60px;
+.app_features img{
+	max-width: 60px;
+	max-height: 60px;
 	margin-bottom:10px;
-	
 }
 
 .app_features .container {
