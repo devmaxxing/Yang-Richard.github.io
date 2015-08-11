@@ -483,7 +483,7 @@ a.app_link{
 	margin-bottom: 50px;
 }
 
-.app_features img{
+.app_features .ficon{
 	max-width: 60px;
 	max-height: 60px;
 	float: center;
